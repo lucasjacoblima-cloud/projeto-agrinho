@@ -1,1 +1,39 @@
+function checkAnswer(isCorrect, button) {
+    if (isCorrect) {
+        // ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಅನಿಮೇಷನ್ ಕ್ಲಾಸ್ ಸೇರಿಸುತ್ತದೆ
+        button.classList.add('correct-answer');
+        alert("🎉 ಅದ್ಭುತ! ಇದು ಸರಿಯಾದ ಉತ್ತರ ಮತ್ತು ಸುಸ್ಥಿರ ಕೃಷಿಯತ್ತ ಉತ್ತಮ ಹೆಜ್ಜೆ.");
+    } else {
+        button.style.backgroundColor = "#e57373"; // ತಪ್ಪು ಉತ್ತರಕ್ಕೆ ಕೆಂಪು ಬಣ್ಣ
+        alert("❌ ಕ್ಷಮಿಸಿ, ಇದು ತಪ್ಪು. ಸರಿಯಾದ ಕ್ರಮ ತಿಳಿಯಲು ನಮ್ಮ ಕೈಪಿಡಿ ಓದಿ.");
+    }
+}
 
+    if (isCorrect) {
+        // ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಅನಿಮೇಷನ್ ಕ್ಲಾಸ್ ಸೇರಿಸುತ್ತದೆ
+        button.classList.add('correct-answer');
+        alert("🎉 ಅದ್ಭುತ! ಇದು ಸರಿಯಾದ ಉತ್ತರ ಮತ್ತು ಸುಸ್ಥಿರ ಕೃಷಿಯತ್ತ ಉತ್ತಮ ಹೆಜ್ಜೆ.");
+    } else {
+        button.style.backgroundColor = "#e57373"; // ತಪ್ಪು ಉತ್ತರಕ್ಕೆ ಕೆಂಪು ಬಣ್ಣ
+        alert("❌ ಕ್ಷಮಿಸಿ, ಇದು ತಪ್ಪು. ಸರಿಯಾದ ಕ್ರಮ ತಿಳಿಯಲು ನಮ್ಮ ಕೈಪಿಡಿ
+
+    if (isCorrect) {
+        // ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಅನಿಮೇಷನ್ ಕ್ಲಾಸ್ ಸೇರಿಸುತ್ತದೆ
+        button.classList.add('correct-answer');
+        alert("🎉 ಅದ್ಭುತ! ಇದು ಸರಿಯಾದ ಉತ್ತರ ಮತ್ತು ಸುಸ್ಥಿರ ಕೃಷಿಯತ್ತ ಉತ್ತಮ ಹೆಜ್ಜೆ.");
+    } else {
+        button.style.backgroundColor = "#e57373"; // ತಪ್ಪು ಉತ್ತರಕ್ಕೆ ಕೆಂಪು
+
+    if (isCorrect) {
+        // ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಅನಿಮೇಷನ್ ಕ್ಲಾಸ್ ಸೇರಿಸುತ್ತದೆ
+        button.classList.add('correct-answer');
+        alert("🎉 ಅದ್ಭುತ! ಇದು ಸರಿಯಾದ ಉತ್ತರ ಮತ್ತು ಸುಸ್ಥಿರ ಕೃಷಿಯತ್ತ ಉತ್ತಮ ಹೆಜ್ಜೆ.");
+    
+
+    if (isCorrect) 
+        // ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ ಅನಿಮೇಷನ್ ಕ್ಲಾಸ್ ಸೇರಿಸುತ್ತದೆ
+        button.classList.add('correct-answer');
+        alert("🎉 ಅದ
+
+    if (isCorrect) 
+        // ಸರಿಯಾದ ಉತ್ತರಕ್ಕೆ
