@@ -1,1 +1,295 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f8e9; /* Verde bem clarinho */
+    color: #1b5e20; /* Verde escuro para leitura */
+    line-height: 1.6;
+}
 
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #2e7d32; /* Verde Agro */
+    text-align: center;
+}
+
+/* Estilo do Quiz */
+.quiz-card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Animação para acerto */
+.correct-answer {
+    animation: bounce 0.5s;
+    background-color: #c8e6c9;
+    border: 2px solid #4caf50;
+}
+
+@keyframes bounce {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+}
+
+button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f8e9; /* Verde bem clarinho */
+    color: #1b5e20; /* Verde escuro para leitura */
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #2e7d32; /* Verde Agro */
+    text-align: center;
+}
+
+/* Estilo do Quiz */
+.quiz-card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Animação para acerto */
+.correct-answer {
+    animation: bounce 0.5s;
+    background-color: #c8e6c9;
+    border: 2px solid #4caf50;
+}
+
+@keyframes bounce {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+}
+
+button {
+    background-color: #4caf50;
+    color: white;
+    
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f8e9; /* Verde bem clarinho */
+    color: #1b5e20; /* Verde escuro para leitura */
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #2e7d32; /* Verde Agro */
+    text-align: center;
+}
+
+/* Estilo do Quiz */
+.quiz-card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Animação para acerto */
+.correct-answer {
+    animation: bounce 0.5s;
+    background-color: #c8e6c9;
+    border: 2px solid #4caf50;
+}
+
+@keyframes bounce {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1);
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f8e9; /* Verde bem clarinho */
+    color: #1b5e20; /* Verde escuro para leitura */
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #2e7d32; /* Verde Agro */
+    text-align: center;
+}
+
+/* Estilo do Quiz */
+.quiz-card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Animação para acerto */
+.correct-answer {
+    animation: bounce 0.5s;
+    background-color: #c8e6c9;
+    border: 2px solid #4caf50;
+}
+
+@keyframes bounce {
+    0%, 10
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f8e9; /* Verde bem clarinho */
+    color: #1b5e20; /* Verde escuro para leitura */
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #2e7d32; /* Verde Agro */
+    text-align: center;
+}
+
+/* Estilo do Quiz */
+.quiz-card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Animação para acerto */
+.correct-answer {
+    animation: bounce 0.5s;
+    background-color: #c8e6c9;
+    border:
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f8e9; /* Verde bem clarinho */
+    color: #1b5e20; /* Verde escuro para leitura */
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #2e7d32; /* Verde Agro */
+    text-align: center;
+}
+
+/* Estilo do Quiz */
+.quiz-card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Animação para acerto */
+.correct-answer {
+    
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f8e9; /* Verde bem clarinho */
+    color: #1b5e20; /* Verde escuro para leitura */
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #2e7d32; /* Verde Agro */
+    text-align: center;
+}
+
+/* Estilo do Quiz */
+.quiz-card {
+    background: white;
+    padding: 20px;
+    border-radius:
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f8e9; /* Verde bem clarinho */
+    color: #1b5e20; /* Verde escuro para leitura */
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #2e7d32; /* Verde Agro */
+    text-align: center;
+}
+
+/* Estilo do
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f8e9; /* Verde bem clarinho */
+    color: #1b5e20; /* Verde escuro para leitura */
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f8e9; /* Verde bem clarinho */
+    color: #1b5e20; /* Verde escuro para leitura */
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f8e9; /* Verde bem clarinho */
+    color: #1b5e20; /* Verde escuro para leitura */
+    line
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f8e9; /* Verde bem
